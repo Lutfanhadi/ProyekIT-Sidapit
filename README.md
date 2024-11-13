@@ -28,7 +28,7 @@ Selamat datang di repositori proyek web kami! Proyek ini dibangun menggunakan te
 
 ## Deskripsi Proyek
 
-Proyek ini bertujuan untuk [deskripsi singkat tentang tujuan proyek, misalnya: "mengelola data pengguna dan menampilkan statistik dalam bentuk tabel dan grafik yang interaktif."].
+SIDAPIT bertujuan untuk menyediakan solusi komprehensif bagi tim manajemen proyek dalam mengelola data proyek IT. Dengan SIDAPIT, proses manajemen proyek dapat dilakukan dengan lebih terstruktur, terorganisir, dan dapat dipantau secara real-time, yang pada akhirnya meningkatkan produktivitas dan keberhasilan proyek.
 
 ## Fitur Utama
 
@@ -42,13 +42,13 @@ Proyek ini bertujuan untuk [deskripsi singkat tentang tujuan proyek, misalnya: "
 
 - **Bahasa Pemrograman**: PHP, JavaScript
 - **Framework CSS**: Bootstrap, Tailwind CSS
-- **Library dan Tools**:jQuery, Bootstrap
+- **Library dan Tools**: jQuery, Bootstrap
 
 ## Instalasi
 
 Ikuti langkah-langkah berikut untuk menginstal proyek ini di lokal Anda:
 
-1. **Clone repositori**:
+ **Clone repositori**:
 
     HTTPS:
     ```bash
@@ -59,32 +59,11 @@ Ikuti langkah-langkah berikut untuk menginstal proyek ini di lokal Anda:
     git clone git@github.com:Lutfanhadi/ProyekIT-Sidapit.git
     ```
 
-1. **Masuk ke direktori proyek**:
+ **Masuk ke direktori proyek**:
     ```bash
     cd /path/to/ProyekIT-Sidapit
     ```
 
-2. **Instal dependensi**:
-    - Pastikan Anda memiliki PHP dan Composer terinstal.
-    - Jalankan perintah berikut untuk menginstal dependensi PHP:
-      ```bash
-      composer install
-      ```
-    - Instal dependensi JavaScript (jika ada):
-      ```bash
-      npm install
-      ```
-
-3. **Konfigurasi**:
-    - Salin file `.env.example` menjadi `.env` dan sesuaikan konfigurasi sesuai kebutuhan Anda.
-
-4. **Jalankan Proyek**:
-    - Jalankan server PHP lokal:
-      ```bash
-      php -S localhost:8000
-      ```
-
-    - Akses proyek di browser melalui `http://localhost:8000`.
 
 ## Kontribusi
 
