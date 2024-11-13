@@ -36,7 +36,7 @@ Proyek ini bertujuan untuk [deskripsi singkat tentang tujuan proyek, misalnya: "
 - **Antarmuka Responsif**: Menggunakan Bootstrap dan Tailwind CSS untuk desain yang adaptif.
 - **Interaktif dan Dinamis**: Menggunakan JavaScript untuk memberikan pengalaman pengguna yang lebih dinamis.
 - **Validasi Formulir**: Validasi input pengguna menggunakan PHP dan JavaScript.
-- **Visualisasi Data**: Menampilkan data dalam bentuk grafik menggunakan [nama library jika ada, misalnya: Chart.js].
+- **Visualisasi Data**: Menampilkan data dalam bentuk grafik menggunakan Chart.js.
 
 ## Teknologi yang Digunakan
 
