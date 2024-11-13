@@ -2,13 +2,6 @@ Sistem Informasi Pengelolaan Data Proyek IT (SIDAPIT) adalah aplikasi berbasis w
 
 DIBUAT OLEH : JAV(S)TUDIO
 
-TIM :
-1.Lutfan Hadi 
-2. Marco valentine
-3. Najikha Shofiyani Rhamadani
-4. Muhammad Alfin ghozali
-5. Muhammad Faris Mut'taz
-6. Okta Barka Ramadhan
 
 
 
