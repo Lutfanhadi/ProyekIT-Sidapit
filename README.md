@@ -13,11 +13,11 @@ DIBUAT OLEH :
 6. Okta Barka Ramadhan
 
 
-Tampilan HomePage Web Sidapit :
+Tampilan HomePage :
 
 ![image](https://github.com/user-attachments/assets/8d18251d-7b6b-4356-8fb9-0a7e00033115)
 
-Tampilan Dashbord Web Sidapit :
+Tampilan Dashbord :
 
 ![foto_dashboard](https://github.com/user-attachments/assets/bebeb07a-1da0-4067-86e4-e7b75e4b7658)
 
