@@ -49,12 +49,6 @@ SIDAPIT bertujuan untuk menyediakan solusi komprehensif bagi tim manajemen proye
 Ikuti langkah-langkah berikut untuk menginstal proyek ini di lokal Anda:
 
  **Clone repositori**:
-
-    HTTPS:
-    ```bash
-    git clone https://github.com/Lutfanhadi/ProyekIT-Sidapit.git
-    ```
-    SSH:
     ```bash
     git clone git@github.com:Lutfanhadi/ProyekIT-Sidapit.git
     ```
