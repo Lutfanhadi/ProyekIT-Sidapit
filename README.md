@@ -42,24 +42,28 @@ Proyek ini bertujuan untuk [deskripsi singkat tentang tujuan proyek, misalnya: "
 
 - **Bahasa Pemrograman**: PHP, JavaScript
 - **Framework CSS**: Bootstrap, Tailwind CSS
-- **Library dan Tools Lainnya**:
-  - [Library atau tool lain yang digunakan, misalnya: jQuery, Axios, dll.]
+- **Library dan Tools**:jQuery, Bootstrap
 
 ## Instalasi
 
 Ikuti langkah-langkah berikut untuk menginstal proyek ini di lokal Anda:
 
 1. **Clone repositori**:
+    HTTPS:
     ```bash
-    git clone https://github.com/username/repo-name.git
+    git clone https://github.com/Lutfanhadi/ProyekIT-Sidapit.git
+    ```
+    SSH:
+    ```bash
+    git clone git@github.com:Lutfanhadi/ProyekIT-Sidapit.git
     ```
 
-2. **Masuk ke direktori proyek**:
+1. **Masuk ke direktori proyek**:
     ```bash
     cd repo-name
     ```
 
-3. **Instal dependensi**:
+2. **Instal dependensi**:
     - Pastikan Anda memiliki PHP dan Composer terinstal.
     - Jalankan perintah berikut untuk menginstal dependensi PHP:
       ```bash
@@ -70,10 +74,10 @@ Ikuti langkah-langkah berikut untuk menginstal proyek ini di lokal Anda:
       npm install
       ```
 
-4. **Konfigurasi**:
+3. **Konfigurasi**:
     - Salin file `.env.example` menjadi `.env` dan sesuaikan konfigurasi sesuai kebutuhan Anda.
 
-5. **Jalankan Proyek**:
+4. **Jalankan Proyek**:
     - Jalankan server PHP lokal:
       ```bash
       php -S localhost:8000
