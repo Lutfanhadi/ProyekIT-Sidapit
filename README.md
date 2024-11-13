@@ -1,6 +1,6 @@
 # SIDAPIT
 
-Sistem Informasi Pengelolaan Data Proyek IT (SIDAPIT) adalah aplikasi berbasis web yang dirancang untuk membantu manajemen proyek dalam mengelola data proyek secara efektif dan efisien. Aplikasi ini memungkinkan pengumpulan, penyimpanan, dan analisis data proyek dengan menggunakan teknologi informasi modern.
+   Sistem Informasi Pengelolaan Data Proyek IT (SIDAPIT) adalah aplikasi berbasis web yang dirancang untuk membantu manajemen proyek dalam mengelola data proyek secara efektif dan efisien. Aplikasi ini memungkinkan pengumpulan, penyimpanan, dan analisis data proyek dengan menggunakan teknologi informasi modern.
 
 NAMA TIM : JAV(S)TUDIO
 
@@ -24,11 +24,11 @@ Tampilan Dashbord :
 
 # Proyek Web Sistem Informasi Pengelolaan Data Proyek IT
 
-Selamat datang di repositori proyek web kami! Proyek ini dibangun menggunakan teknologi PHP dan JavaScript dengan bantuan framework Bootstrap dan Tailwind CSS untuk tampilan yang responsif dan menarik.
+   Selamat datang di repositori proyek web kami! Proyek ini dibangun menggunakan teknologi PHP dan JavaScript dengan bantuan framework Bootstrap dan Tailwind CSS untuk tampilan yang responsif dan menarik.
 
 ## Deskripsi Proyek
 
-SIDAPIT bertujuan untuk menyediakan solusi komprehensif bagi tim manajemen proyek dalam mengelola data proyek IT. Dengan SIDAPIT, proses manajemen proyek dapat dilakukan dengan lebih terstruktur, terorganisir, dan dapat dipantau secara real-time, yang pada akhirnya meningkatkan produktivitas dan keberhasilan proyek.
+   SIDAPIT bertujuan untuk menyediakan solusi komprehensif bagi tim manajemen proyek dalam mengelola data proyek IT. Dengan SIDAPIT, proses manajemen proyek dapat dilakukan dengan lebih terstruktur, terorganisir, dan dapat dipantau secara real-time, yang pada akhirnya meningkatkan produktivitas dan keberhasilan proyek.
 
 ## Fitur Utama
 
@@ -61,20 +61,16 @@ berikut untuk menginstal proyek ini di lokal Anda:
     cd /path/to/ProyekIT-Sidapit
 
 
+**Install dependency**:
 
-## Kontribusi
+    composer install
+    npm install
 
-Kami menyambut kontribusi dari komunitas. Jika Anda ingin berkontribusi, silakan fork repositori ini, buat branch baru untuk fitur atau perbaikan Anda, dan buat pull request. Pastikan untuk membaca [CONTRIBUTING.md](link ke CONTRIBUTING.md jika ada) sebelum memulai.
 
 ## Lisensi
 
 Proyek ini dilisensikan di bawah lisensi [MIT](LICENSE).
 
-## Kontak
-
-Jika Anda memiliki pertanyaan atau masukan, silakan hubungi kami di [email@example.com](mailto:email@example.com).
-
----
 
 Terima kasih telah menggunakan proyek kami!
 
