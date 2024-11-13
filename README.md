@@ -9,3 +9,6 @@ TIM :
 4. Muhammad Alfin ghozali
 5. Muhammad Faris Mut'taz
 6. Okta Barka Ramadhan
+
+![image](https://github.com/user-attachments/assets/362a72c4-dbca-4ed6-8d9a-7cad62521048)
+
