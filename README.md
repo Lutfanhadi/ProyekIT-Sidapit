@@ -49,6 +49,7 @@ Proyek ini bertujuan untuk [deskripsi singkat tentang tujuan proyek, misalnya: "
 Ikuti langkah-langkah berikut untuk menginstal proyek ini di lokal Anda:
 
 1. **Clone repositori**:
+
     HTTPS:
     ```bash
     git clone https://github.com/Lutfanhadi/ProyekIT-Sidapit.git
@@ -60,7 +61,7 @@ Ikuti langkah-langkah berikut untuk menginstal proyek ini di lokal Anda:
 
 1. **Masuk ke direktori proyek**:
     ```bash
-    cd repo-name
+    cd /path/to/ProyekIT-Sidapit
     ```
 
 2. **Instal dependensi**:
