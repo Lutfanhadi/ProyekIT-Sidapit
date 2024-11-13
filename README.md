@@ -42,11 +42,12 @@ SIDAPIT bertujuan untuk menyediakan solusi komprehensif bagi tim manajemen proye
 
 - **Bahasa Pemrograman**: PHP, JavaScript
 - **Framework CSS**: Bootstrap, Tailwind CSS
+- **Database**: MySQL
 - **Library dan Tools**: jQuery, Bootstrap
 
 ## Instalasi
 
-Ikuti langkah-langkah berikut untuk menginstal proyek ini di lokal Anda:
+berikut untuk menginstal proyek ini di lokal Anda:
 
  **Clone repositori**:
  
