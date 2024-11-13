@@ -13,7 +13,4 @@ TIM :
 
 
 
-Tambpilan HomePage :
-
-![image](https://github.com/user-attachments/assets/362a72c4-dbca-4ed6-8d9a-7cad62521048)
 
