@@ -22,7 +22,7 @@ Tampilan Dashbord :
 ![foto_dashboard](https://github.com/user-attachments/assets/bebeb07a-1da0-4067-86e4-e7b75e4b7658)
 
 
-# Proyek Web PHP dan JavaScript
+# Proyek Web Sistem Informasi Pengelolaan Data Proyek IT
 
 Selamat datang di repositori proyek web kami! Proyek ini dibangun menggunakan teknologi PHP dan JavaScript dengan bantuan framework Bootstrap dan Tailwind CSS untuk tampilan yang responsif dan menarik.
 
