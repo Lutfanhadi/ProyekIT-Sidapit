@@ -67,11 +67,6 @@ berikut untuk menginstal proyek ini di lokal Anda:
     npm install
 
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah lisensi [MIT](LICENSE).
-
-
 Terima kasih telah menggunakan proyek kami!
 
 
