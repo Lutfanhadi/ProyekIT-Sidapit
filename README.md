@@ -44,6 +44,7 @@ Tampilan Dashbord :
 - **Framework CSS**: Bootstrap, Tailwind CSS
 - **Database**: MySQL
 - **Library dan Tools**: jQuery, Bootstrap
+- **Dependency Manager**: Composer
 
 ## Instalasi
 
